@@ -3,7 +3,10 @@
 
 While the "release early, release often" development philosophy can help a team learn what their product should do, if that product is a framework, adopters often tire of trying to hit a moving target. With PureMVC, we nailed down the scope early on, fixed the bugs, and let it be. 
 
-Regardless of the language you use, the roles, responsibilities, and collaboration patterns will be the same. This helps people learn different programming languages, by learning how PureMVC works in each. It helps when you have, say, a mobile app for Android and iOS that is really two apps (one in Kotlin, one in Swift). PureMVC allows you to employ the same architecture across both codebases, making it easier to maintain feature parity.
+## 🤔 Why use PureMVC?
+All of the ports are as faithful as possible to the original ActionScript reference implementation, while respecting local idioms and using the simplest language features to implement. Regardless of the programming language you use, the roles, responsibilities, and collaboration patterns will be the same. This helps developers learn new programming languages, by learning how PureMVC works in each.
+
+It can also help when you have, say, a mobile app for Android and iOS that is really two apps (one in Kotlin, one in Swift) with two teams building them. PureMVC allows you to employ the same architecture across both codebases, making it easier to maintain feature parity, as well as for developers to work across teams.
 
 ## 📖 Helpful resources
   
